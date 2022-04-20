@@ -6,6 +6,5 @@ AHLSORT is commercial software and licenses can be purchased at www.ahlsort.com
 
 In order to run this demo, you will need the following:
 - A license to run AHLSORT and the associated ahlsortLicense.txt file
-- ahlsort.jar file
 - ahlsortJNI.dll (for Windows users) 
 - libahlsortJNI.so (for Linux users)
