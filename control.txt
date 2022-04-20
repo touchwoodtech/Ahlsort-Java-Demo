@@ -1,0 +1,7 @@
+*record type=f,length=1
+ inrec fields=(1,1)
+ include cond=(1,1,ch,ge,'a',and,1,1,ch,le,'z')
+ sort fields=(1,1,bi,a)
+ outrec fields=(1,1,crlf)
+ sum fields=none
+ end

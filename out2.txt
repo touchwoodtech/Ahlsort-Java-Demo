@@ -1,0 +1,9 @@
+4|Input Record 1|A
+10|Input Record 2|A
+64|Input Record 3|A
+99|Input Record 5|A
+208|Input Record 8|D
+208|Input Record 7|C
+208|Input Record 6|B
+208|Input Record 9|B
+208|Input Record 4|A
