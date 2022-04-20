@@ -8,4 +8,4 @@ In order to run this demo, you will need the following:
 - A license to run AHLSORT and the associated ahlsortLicense.txt file
 - ahlsort.jar file
 - ahlsortJNI.dll (for Windows users) 
-- libAhlsortJNI.so (for Linux users)
+- libahlsortJNI.so (for Linux users)
